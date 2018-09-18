@@ -1,6 +1,6 @@
 {
   "name": "clock",
-  "homepage": "www.andrewpagan.me/countdown",
+  "homepage": "http://www.andrewpagan.me/countdown/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
