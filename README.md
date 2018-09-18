@@ -1,0 +1,1 @@
+Simple countdown clock component.
