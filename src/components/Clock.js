@@ -30,6 +30,9 @@ class Clock extends Component {
 
   congratulations() {
     this.setState({ value: "All Done!", active: false });
+    setTimeout(() => {
+      this.setState({ value: "" });
+    }, 1000);
   }
 
   componentDidUpdate(prevProps) {

@@ -11,6 +11,7 @@ class App extends Component {
     this.handleChange = this.handleChange.bind(this);
   }
 
+  // Handle input change
   handleChange(e) {
     var value = e.target.value;
     this.setState({ value });
